@@ -1,0 +1,2 @@
+# Palmira-Tech---Website-Development-Project
+This is a website made from scratch with the help of HTML, and CSS for the website service agency named Palmira Tech based in New Delhi, India. I have made this project from scratch and Have not added some good Logo designs and other images, but I will add it at some time later. If you appreciate this design and Website, I have also made similar more websites like this. I hope that you will like the project.
